@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on data science projects
 - 🌱 I’m currently learning more about Tensorflow, Keras and PyTorch
 - 👯 I’m looking to collaborate on data/computer science projects, game development, mobile development 
-- 📫 How to reach me: https://www.linkedin.com/in/ronny-toribio-cs-ds/
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronny-blue)](https://www.linkedin.com/in/ronny-toribio-cs-ds/)
 - ⚡ Fun fact: ...
 
 ### About me
